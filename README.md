@@ -8,8 +8,7 @@
 <h4 align="center">Hello, I'm Guillem, a student at Tecnocampus pursuing a degree in Game Development. I'm very interested in programming and software engineering. I am an enthusiastic and a social person  who loves meeting new people and learning from experienced professionals in the field.</h4>
 <br>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
+
 
 
 ## 🛠️ My Skills
@@ -19,7 +18,7 @@
 <p align="left"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+    <img alt="C#">
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
